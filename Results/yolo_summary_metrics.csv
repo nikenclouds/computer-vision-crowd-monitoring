@@ -1,0 +1,2 @@
+Model,Number of Frames,MAE,RMSE,MAPE (%),Mean Error
+YOLOv8n pretrained,2000,13.1505,13.818339263457096,42.1589566543963,-13.1505
